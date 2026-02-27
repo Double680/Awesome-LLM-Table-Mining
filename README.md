@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2><b> A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects (Preprint, ArXiv 2025) </b></h2>
+  <h2><b> A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects (Preprint, TechRxiv 2025) </b></h2>
 </div>
 <div align="center">
 
@@ -434,6 +434,6 @@ If you find this resource helpful, please consider starring this repository.
 ## Contact:
 If you have any questions or suggestions, feel free to contact our team:
 - Mingyue Cheng (mycheng@ustc.edu.cn)
-- Qinyang Mao (maoqy0503@mail.ustc.edu.cn)
+- Qingyang Mao (maoqy0503@mail.ustc.edu.cn)
 
 
